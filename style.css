@@ -642,14 +642,17 @@ p[data-width="wide"] {
 .padding-block-900 {
     padding-block: var(--size-900);
 }
+.padding-block-800 {
+    padding-block: var(--size-800);
+}
 .padding-block-700 {
     padding-block: var(--size-700);
 }
 .margin-bottom-700 {
     margin-block-end: var(--size-700);
 }
-.margin-top-500 {
-    margin-block-start: var(--size-500);
+.margin-top-400 {
+    margin-block-start: var(--size-400);
 }
 .margin-top-700 {
     margin-block-start: var(--size-700);
