@@ -4,6 +4,7 @@ The project link can be found at: https://www.frontendmentor.io/challenges/manag
 
 
 # Tech Stack
-Frontend: html,css,js  
-Deployed using: Vitejs  
-Slider: a11y slider library  
+Frontend: html,css,js    
+Components: a11y-slider  
+Build: Vitejs    
+Deploy: Netlify    
