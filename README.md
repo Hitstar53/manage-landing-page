@@ -6,4 +6,4 @@ The project question link can be found at: https://www.frontendmentor.io/challen
 # Tech Stack
 Frontend: html,css,js  
 Deployed using: Vitejs  
-Slider: uses a11y slider library  
+Slider: a11y slider library  
