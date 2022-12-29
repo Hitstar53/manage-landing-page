@@ -1,6 +1,6 @@
 # manage-landing-page
-A manage laning page created as a frontend mentor project  
-The project question link can be found at: https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub
+A manage landing page created as a frontend mentor project  
+The project link can be found at: https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub
 
 
 # Tech Stack
